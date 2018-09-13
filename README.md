@@ -8,7 +8,7 @@ and no sound output.
 Run from Docker Hub:
 
 ```
-> docker --rm -it flohofwoe/c64
+> docker run --rm -it flohofwoe/c64
 ```
 
 To build just the emulator:
